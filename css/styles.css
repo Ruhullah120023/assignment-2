@@ -1,0 +1,39 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.container{
+    width: auto;
+}
+
+.head-logo {
+    width: 300px;
+}
+
+.slider-logo {
+    width: 80px;
+    display: flex;
+}
+
+.logo-xmlid{
+    width: 600px;
+}
+
+.section-logo {
+    width: 90px;
+}
+
+.section-logo-big {
+    width: 600px;
+}
+
+.highlighted {
+    font-weight: 800;
+    color: #54917d;
+}
+
+.button {
+    padding: 5px 10px;
+    background-color: #473C8B;
+    color: #fff;
+}
